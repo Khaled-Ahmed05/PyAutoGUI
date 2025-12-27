@@ -1,0 +1,5 @@
+main.spec
+.venv/
+build/
+test.py
+dist/
